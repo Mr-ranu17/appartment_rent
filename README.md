@@ -1,4 +1,5 @@
 ****Apartment Rent Prediction Web App****
+
 This project is a Streamlit-based web application designed to predict apartment rent using machine learning models. It streamlines data preprocessing, model training, and rent prediction, offering an intuitive interface for users.
 - - -
  **==> Features :**
